@@ -1,0 +1,22 @@
+[
+  {
+    "name": "T-shirt",
+    "price": 60,
+    "description": "Original t-shirt from your favorite team."
+  },
+  {
+    "name": "Boots",
+    "price": 70,
+    "description": "Profesional footwear for high performance."
+  },
+  {
+    "name": "Gloves",
+    "price": 40,
+    "description": "Best gloves for goalkeepers in the market."
+  },
+  {
+    "name": "Ball",
+    "price": 100,
+    "description": "High durability ball size 5."
+  }
+]
